@@ -1,7 +1,9 @@
 package com.hr180011_huseyin_gokhan_karacavus_final_proje.activity;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.os.Build;
 import android.os.Bundle;
 import android.text.Html;
 import android.widget.ImageView;
@@ -20,12 +22,13 @@ public class DetayActivity extends AppCompatActivity {
     TextView txtFilmTuru;
     TextView txtOzet;
     @Override
+    @RequiresApi(api = Build.VERSION_CODES.N)
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detay);
         init();
     }
-
+    @RequiresApi(api = Build.VERSION_CODES.N)
     private void init()
     { String FilmString =getIntent().getStringExtra(Constants.TIKLANAN_FİLM_BASLIGI);
         FilmModel FilmModel = ObjectUtil.jsonStringToFilm(FilmString);
