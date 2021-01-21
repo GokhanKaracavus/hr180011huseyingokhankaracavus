@@ -8,11 +8,11 @@ Bu uygulamanın temel amacı, Java'da Mimari bileşenleri, Glide vb. Kullanan y�
 
 # Outputs
 <p>
-  <img height= "300"  src="https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/master/Screens/1.png" alt="SS1" />
-  <img height= "300"  src="https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/master/Screens/2.png" alt="SS2" />
-  <img height= "300"  src="https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/master/Screens/3.png" alt="SS3" />
-  <img height= "300"  src="https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/master/Screens/4.png" alt="SS4" />
-  <img height= "300"  src="https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/master/Screens/5.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/1.png" alt="SS1" />
+  <img height= "300"  src="https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/2.png" alt="SS2" />
+  <img height= "300"  src="https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/3.png" alt="SS3" />
+  <img height= "300"  src="https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/4.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/5.png" alt="SS4" />
 </p>
 
 ## Architecture
