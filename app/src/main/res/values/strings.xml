@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hr180011_huseyin_gokhan_karacavus_final_proje</string>
+
+    <string name="kontrol">Bağlantınızı kontrol ediniz!</string>
+    <string name="Evet">Evet</string>
+    <string name="Hayır">Hayır</string>
+    <string name="cikis">Çıkış yapmak istediğinize emin misiniz?</string>
+</resources>

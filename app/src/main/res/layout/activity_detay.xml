@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.DetayActivity">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imgKapak"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_height"
+            android:scaleType="fitXY"/>
+
+
+        <TextView
+            android:id="@+id/txtFilmAdi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding10"
+            android:text="Film Başlık"
+            android:textColor="@color/textfilm"
+            android:textSize="@dimen/sp30"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtFilmVizyonTarihi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/padding10"
+            android:text="VizyonTarihi"
+            android:textSize="@dimen/sp30" />
+
+        <TextView
+            android:id="@+id/txtFilmTuru"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding10"
+            android:text="Tur"
+            android:textSize="@dimen/sp30" />
+
+        <TextView
+            android:id="@+id/txtOzet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/padding10"
+            android:text="ozet"
+            android:textColorHighlight="#FFFFFF"
+            android:textSize="@dimen/sp30" />
+
+    </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
