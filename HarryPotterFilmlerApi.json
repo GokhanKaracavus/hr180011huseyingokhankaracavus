@@ -1,0 +1,75 @@
+[
+
+	{
+		"FilmAdi": "Harry Potter ve Felsefe Taşı",
+		"FilmVizyonTarihi": "1 Şubat 2002",
+        "FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/felsefetasikapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/felsefelogo.png",
+		"Ozet":"Harry Potter'ın ailesi ağır ve şaibeli bir trafik kazasında ölmüştür. Öksüz ve yetim kalan Harry'nin sığınabileceği tek yer, arasının pek de iyi olmadığı teyzesinin yanıdır. Harry, tüm hayatı boyunca idari ailesi tarafından kötü davranışlarla büyütülür. Ancak Harry Potter artık 11 yaşındadır ve Harry'nin hayalleri ve yetenekleri günden güne su yüzüne çıkmaktadır. Kısa süre sonra Hogwarts büyücülük okuluna davet edilir. Artık tek amacı, ailesinin bu şüpheli kazasını araştırmak ve muhattaplarını cezalandırmaktır. "
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Sırlar Odası",
+		"FilmVizyonTarihi": "29 Kasım 2002",
+        "FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/sirlarodas%C4%B1kapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/sirlarodasilogo.png",
+		"Ozet": "Harry'nin yanlarında kalmak zorunda olduğu için yanlarında kaldığı ailesi olan Dursley'ler Harry'ye kötü davranmaya devam etmektedirler. Harry de bu eziyetten kurtulmak için bir an önce çok sevdiği okulu Hogwarts'a dönmenin hayallerini kurmaktadır. Vakit gelir ve Harry hazırlanmaya başlar ancak bir elf olan Dobby onu uyararak okula döndüğünde çok büyük bir felaketle karşılaşacağı yönünde uyarır. Sırlar odası açılmıştır ve çok karanlık bir güç Hogwarts'ın üzerinde egemen olmaya başlamıştır."
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Azkaban Tutsağı",
+		"FilmVizyonTarihi": "4 Haziran 2004",
+        "FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/azkabantutsagiyeni.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/azkabantutsagilogo.png",
+		"Ozet": "Sevilen kahramanın yeni bir filmi daha. Harry Potter, akrabaları ile zor zamanlar geçirmektedir. Ailesine kötü davranan, Vernon Amca’nın kız kardeşi Marge’a büyü yapıp kaçar. Okul dışında büyü yaptığı için korksa da cezalandırılmadığını fark edince çok şaşırır. Ancak çok geçmeden, tehlikeli bir suçlu olan Lord Voldemort’un yardımcısı Sirius Black’in Azkaban hapishanesinden kaçtığını öğrenir. Dark Lord’un intikamını almak için Harry’i öldürmek istemektedir. Hapishanedeki büyük suçlulardan sorumlu, Ruh Emiciler etrafa huzursuzluk saçmaktadırlar. Öte yandan Lupin’in de sakladığı bir sır var gibi görünmektedir. Keşfedilmeyi bekleyen çok sayıda sır, Harry’nin yeni macerasında"
+    },
+    
+	{
+		"FilmAdi": "Harry Potter ve Ateş Kadehi",
+		"FilmVizyonTarihi": "18 Kasım 2005",
+        "FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/ateskadehikapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/ateskadehilogo.png",
+		"Ozet": "Harry’nin Hogwart’daki dördüncü yılı başlamak üzeredir. Yaz tatilinde arkadaşları ile keyifli zamanlar geçirmiştir. Bu sezonda iddialı bir ürkütücü olaylar silsilesinden geçecek olduğundan henüz haberdar değildir. Lord Voldemort ile burun buruna gelecek olması, yeni okul yılının en çarpıcı hikayesini oluşturacaktır. Quidditch Dünya Kupası finalini izleyecek ve aynı zamanda da birbirine rakip olan iki büyücülük okulunun en gözdeleri ile beraber turnuvaya gireceklerdir. Önceki bölümlerde de olduğu üzere yine heyecan dolu maceralarla karşımızda."
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+		"FilmVizyonTarihi": "10 Ağustos 2007",
+		"FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/zumruduankayoldasligikapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/zumruduankayoldasligilogo.png",
+		"Ozet": "Privet Drive’da geçen yalnız bir yazın ardından Harry, Hogwarts’a döner. Öğrencilerden ve onların ailelerinden çok azı, Voldemort’un gerçekten de geri döndüğü konusunda Harry’e ya da Dumbledore’a inanmaktadırlar. Sihir Bakanı da bu duruma inanmadığı için gereken önlemleri almakta gecikir. Bu sırada başta Harry Potter olmak üzere bütün büyücüler tehdit altında kalır. Harry, güzel Cho Chang’tan bir bakış çalmaya engel olamaz. Sihir Bakanlığı’nın bir süre sonra olayları kontrol altına almak üzere gönderdiği Dolores Umbridge, düzeni bütünüyle bir kabusa dönüştürecektir. Harry ise bu işin ardında Voldemort’un da aradığı bir gizemin olduğunu bir türlü izah edemez. Bütün bunlarla Harry, Hogwarts’taki en zor yılına başlamıştır."
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Melez Prens",
+		"FilmVizyonTarihi": "15 Temmuz 2009",
+		"FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/melezprenskapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/melezprenslogo.png",
+		"Ozet": "Fantastik Sinema fenomeni Harry Potter, bu defa serinin 6. kitabı Harry Potter ve Melez Prens uyarlamasıyla karşımızda. Sevimli kahramanımız Potter, Hogwarts’taki 6. Yılında bir sürpriz ile karşılaşır. Tesadüfen, üzerinde ‘bu kitap Melez Prens’e aittir’ yazılı bir kitap bulmasıyla kitabın içindeki büyüleri kurcalaması sonucu Melez Prens’in gizemini keşfetmeye koyulacaktır. Bilge büyücü Dumbledore’un yol arkadaşlığı, karanlık düşmanı Voldemort ile hesaplaşmasını kolaylaştırsa da, Harry Potter ve arkadaşlarını bu defa çok çetrefilli bir savaş beklemektedir. J.K. Rowling’in yazdığı serinin 6. kitabı olan Harry Potter ve Melez Prens, ilk yayınlandığı gün dünya çapında tam 9 milyon satarak kendi alanında yine bir rekor kırmıştı."
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Ölüm Yadigârları: Bölüm 1",
+		"FilmVizyonTarihi": "15 Temmuz 2009",
+		"FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/olumyadigarlaribolum1kapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/olumyadigarlaribolum1yeni.png",
+		"Ozet": "Hogwarts'ın maceraperest talebeleri Harry, Ron ve Hermione; Voldemort'un ölümsüzlük sırrını barındıran Hortkuluklar'ın izini sürmek amacındadırlar. Bu şer odağını yoketmek görevini üstlenerek yola çıkan kahramanlarımız, profesörlerinin yönlendirmelerinden uzak ve Dumbledore'un korumasından muaf, tek başlarına yola çıkmışlardır. Üç can dost şimdi herzamankinden daha fazla birbirlerine güvenmek zorundadır. Ancak, onları tehdit ederek ayrı düşmelerini sağlamak isteyen Karanlık Güçler de fitne çıkarmak için peşlerindedir. Bu arada, büyücülük dünyası Karanlık Lord'un tüm düşmanları için tehlikeli bir yer haline dönüşmüştür. Uzun zamandır korkulan savaş başlamış ve Voldemort'un Ölüm Yiyicileri Büyü Bakanlığı'nın kotrolünü zorla ele geçirerek terör estirmektedir. Kendilerinden olmayan herkesi tutuklamaktadırlar. Ama, Voldemort için en değerli olan ganimeti; Harry Potter'i bir türlü ele geçiremezler. Seçilmiş kişi artık aranan kişidir ve Ölüm Yiyiciler Voldemort'a canlı olarak teslim etmek üzere onu aramaktadırlar. Harry'nin tek umudu Voldemort onu bulmadan önce Hortkuluklar'ı bulmaktır. Ama, ipuçlarını araştırdıkça neredeyse unutulmuş olan eski bir efsaneyi ortaya çıkartır. Ölüm Yadigarları'nın efsanesi. Eğer bu efsane gerçekleşirse, Voldemort aradığı üstün güce erişebilecektir. Aslında Harry'nin geleceği, geçmişte yaşadığı ve tüm geleceğini etkileyen sağ kalan çocuk olduğu kader günü de belirlenmiştir. O, artık sadece bir çocuk değildir, Harry Potter, Hogwarts'a ilk adımını attığı günden beri hazırlanmakta olduğu Voldemort'la nihai mücadelesine giderek daha da yaklaşmaktadır."
+	},
+
+	{
+		"FilmAdi": "Harry Potter ve Ölüm Yadigârları: Bölüm 2",
+		"FilmVizyonTarihi": "13 Temmuz 2011",
+		"FilmTuru": "Macera, Aile, Fantastik",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/olumyadigarlaribolum2kapakfoto.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/GokhanKaracavus/HarryPotterFilmleri/main/olumyadigarlaribolum2yeni.png",
+		"Ozet": "Harry Potter Ve Ölüm Yadigarları: Bölüm 2'de, Lord Voldemort'un ruhunun parçalarının bir kısmını bulup yok eden Harry, Ron ve Hermione, Dumbledore'un verdiği görevi tamamlamak için arayışlarını sürdürürlerken Ölüm Yiyenler'le bir ölüm kalım savaşına çıkacaklardır. Voldemort artık iyice güçlenmiş olsa da, hem Lord'dan kaçmak hem de Ölüm Yiyenler'i etkisiz hale getirip Hortkuluklar'ı da yok etmek zorunda kalacak ekip, Ölüm Yadigârları'nın sırrına erişmek için ellerinden geleni yapacaklardır. Serinin en görkemli savaşı başlamaktadır, artık hiçbir şey ve hiçbir yer güvenli değildir. Sona yaklaşılmıştır. İki tarafın da tüm güçlerini ortaya serecekleri bu savaşta Harry Potter da geçmişiyle ilgili pek çok şeyi öğreneceği kadar, en büyük fedakarlığı da yapmak zorundadır."
+	}
+
+]
