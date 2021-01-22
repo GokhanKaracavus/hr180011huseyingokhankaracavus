@@ -16,7 +16,7 @@ Bu uygulamanın temel amacı, Java'da Mimari bileşenleri, Glide vb. Kullanan y�
 </p>
 
 ## Architecture
-![Architecture](https://github.com/GokhanKaracavus/HarryPotterFilmleri/blob/master/Screens/Screenshot_1304.png)
+![Architecture](https://github.com/GokhanKaracavus/hr180011huseyingokhankaracavus/blob/main/Screens/Screenshot_1329.png)
 
 ### Libraries and tools 🛠
 <li><a href="https://guides.codepath.com/android/using-the-recyclerview">Recyclerview</a></li>
