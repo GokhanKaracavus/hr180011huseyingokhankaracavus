@@ -1,6 +1,6 @@
 # HarryPotterFilmleri APP
 
-![appicon](https://github.com/GokhanKaracavus/HarryPotterFilmleri/blob/master/Screens/ic_launcher.png)
+![appicon](https://raw.githubusercontent.com/GokhanKaracavus/hr180011huseyingokhankaracavus/main/Screens/ic_launcher.png)
 
 HarryPotterFilmleri APP, basit bir demo uygulamasıdır.
 
